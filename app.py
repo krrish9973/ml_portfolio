@@ -18,3 +18,4 @@ st.pyplot()
 st.subheader("Scores by Gender")
 sns.boxplot(x="gender", y="math score", data=df)
 st.pyplot()
+# THis is changed
